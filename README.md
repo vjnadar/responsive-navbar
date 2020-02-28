@@ -1,5 +1,5 @@
 <div align="left">
-    <h1>Responsive Navigation bar</h1>
+    <h1>Fully responsive Navigation bar</h1>
 </div>
 
 ## Technology stack
