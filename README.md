@@ -14,11 +14,11 @@
 
 <p align="left">
   <img src="https://i.imgur.com/IAzJCX0.png" width="85%" height="85%">
-  <span><p><b>Desktop</b></p></span>  
+  <span><p><b><u>Desktop view:</u></b></p></span>  
 </p>
 <br/>
-##Mobile
+<br/>
 <p align="left">
   <img src="https://i.imgur.com/qvWO5qP.png" width="55%" height="55%">
-  <span><p><b>Mobile</b></p></span>  
+  <span><p><b>Mobile view:</b></p></span>  
 </p>
