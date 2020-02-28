@@ -16,5 +16,5 @@
 </p>
 <br/>
 <p align="left">
-  <img src="https://i.imgur.com/qvWO5qP.png" width="35%" height="35%">
+  <img src="https://i.imgur.com/qvWO5qP.png" width="55%" height="55%">
 </p>
