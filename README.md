@@ -2,7 +2,7 @@
     <h1>Fully responsive Navigation bar</h1>
 </div>
 
-## Technology stack
+**Technology stack**
 1. JavaScript (ES6+)
 2. Type Script
 3. React JS
