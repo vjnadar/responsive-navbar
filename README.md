@@ -12,7 +12,7 @@
 7. Sass
 
 <p align="left">
-  <img src="https://i.imgur.com/IAzJCX0.png" width="50%" height="50%">
+  <img src="https://i.imgur.com/IAzJCX0.png" width="85%" height="85%">
 </p>
 <br/>
 <p align="left">
