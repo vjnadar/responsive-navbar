@@ -8,8 +8,7 @@
 3. React JS
 4. React-Router
 5. React hooks
-6. Reactstrap(a flavour of Bootstrap)
-7. Sass
+6. Sass
 
 
 <p align="left">
