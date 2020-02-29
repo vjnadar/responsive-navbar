@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  <img src="https://i.imgur.com/IAzJCX0.png" width="85%" height="85%">
+  <img src="https://imgur.com/KdvCqyT.png" width="85%" height="85%">
   <span><p><b><u>Desktop view:</u></b></p></span>  
 </p>
 <br/>
